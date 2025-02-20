@@ -1,0 +1,61 @@
+---
+aliases: 
+tags:
+  - session
+  - wip
+---
+- Six people all received letters from their mysterious blackmailer, inviting them to a manor deep in the Trollbark forest on the 29th of The Claw of Storms, 1385.
+- They all arrive one by one
+	- Maestro Mustard arrives first, no complications - leaves his horse untied outside
+	- Detective Chimera is second - tied his horse outside
+	- Lord Blight - arrived in a carriage, got dropped off and went inside
+	- Sister Sable walked fell and fell into the mud
+	- General Direwolf also walked, but managed to make it safely
+- All the guests were greeted at the door by the butler, and escorted into the library to converse
+	- the maestro had.... a lot of water
+	- Lord Blight and Sister Sable seem to recognize each other
+- The Guests are all escorted to the dining hall
+	- big elaborate table full of various foods
+	- Professor Persimmon arrived late, his horse broke down, and HHH had to bring in a replacement
+	- Once all the guests have arrived, the final guest comes in, introducing himself as Mr. Mimic
+- Everyone goes into the study
+	- The butler reveals that Mr.Mimic was all of their blackmailers and sets the trap
+	- The butler crushes a black stone in the palm of his hand and the room goes dark
+	- Lights come back on and Mr.Mimic is dead
+- Everyone agrees to lock their weapons in a vault, and to keep the key up in the chandelier
+- There's a knock at the door, a young half-orcish woman was bucked off her horse on her way from Daggerford to Baldur's Gate, came looking for refuge. Sister Sable took the Professors horse, gave it to her, and told her to get as far away from there as possible.
+- The ask if there's anyone else left in the manor, the butler says there's only the cook, Eke
+- everyone said they have OCD😠 (CUZ THEY DO), lies
+- The gang decides to split up and search the house
+	- The Butler stays in the grand hall to watch the key
+	- The Detective and Lord Blight Search the cellar
+	- Sister Sable and the General take Eke to search the second floor
+	- Maestro Mustard and Professor Persimmon search the attic
+- Lord Blight and Detective Chimera see glowing red eyes in the forest, and find a wine bottle from the Crimson Fruit in the basement, with a note "From a Friend"
+- Sister Sable activated her corkscrew and told them to go up to General Direwolf, once they go there she casted command on them to "Prick", instantly killing General Direwolf
+- Sister Sable then comes up behind Eke and grabs them and immediately starts screaming about them killing the general
+- People get Sister Sables side of the story but Eke is too freaked out to say much of anything
+- Eke passes out
+- As a sign of good will Seltzer Stable lets everyone tie her up so she can't go anywhere, along with eke
+- Knock at the door, they open it up, Theodoros comes in seeking help from the rain, his is initially locked in the library
+- Detective Chimera and the Professor hide what's left of General Direwolf's supplies, and hide Mr.Mimic under a blanket on the couch
+- Everyone goes into the Kitchen, untie Sister Sable and Eke
+- Theodoros gets out, and finds them in the kitchen
+- They try to pull off that this is just an escape room party, it half works, not really, only kind of sort of
+- People go up to the second floor to try and do another escape room, while they're looking around stalling there's a loud crash of lighting from outside and all the lights go out
+- The Butler alerts them to check the roof for access to the power supply mechanism
+- Professor Persimmon, Maestro Mustard, and Lord Blight find a riddle on a plaque next to two sapphire nodes, directing them to the dragon-slaying painting
+	- "Seek the dragon-killer, they will provide the notes they seek"
+- Sister Sable is on her way back from exploring the basement on her own when she intercepts Lord Blight and the Professor on their way to the painting
+- The paining is torn up and searched, and eventually in the frame of the painting, they found a few notes carved in
+- They go to the ballroom and play the notes, the instruments all come to life and start to play music, a sapphire stone encrusted in the ground starts to glow.
+- The stone is taken to the roof and replaces the old cracked one, all the lights come back on
+- Eke is found in the kitchen scared and freaked out after the lights go out, Sister Sable goes to the guest bedroom to investigate while everyone else attends to Eke.
+	- Tensions are beginning to run high and people start attacking each other
+	- Sister Sable finds a secret passage from the guest room to the kitchen, casts a spell on Professor Persimmon, almost killing him, then runs back downstairs
+	- Eke and the Professor are passed out Maestro Mustard is throwing pans at Theodorus it's absolute chaos, but eventually calms down again.
+- Not long after there's another knock at the door, a silly little Firbolg dude showed up, AND NO ONE ASKED HIS NAME
+- Sister Sable offers to take him up to the guest room and away from all the... action
+	- Sister Sable locks them in the room and attempts to first magically charm him into submission
+	- The magical charm fails, but her inherit ability doesn't, and he falls right into her trap
+	- Sister Sable gets him in the bed, before stabbing him in the eye and then using a fire whip to strangle him
