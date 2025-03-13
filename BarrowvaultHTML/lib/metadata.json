@@ -1,6 +1,6 @@
 {
   "vaultName": "Umbrea",
-  "lastExport": 1740171434987,
+  "lastExport": 1741828010952,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -103,7 +103,11 @@
     "Characters/Dread/Mini Games/Tomb of Horrors/Lord Bjorn Cedarshard.md",
     "Characters/Dread/Mini Games/Tomb of Horrors/Rainer Goldfound.md",
     "Characters/Dread/Mini Games/Tomb of Horrors/Scales Jr..md",
+    "Characters/Hellhaven/Archprelate of Brine Abena Khatari.md",
+    "Characters/Hellhaven/Archprelate of Flame Tessa Durnford.md",
+    "Characters/Hellhaven/Rhaeven Marciel.md",
     "Characters/Misc/Geisswyn.md",
+    "Characters/Misc/Renna Windrider.md",
     "Characters/Vrellyn/Brelwin Mosswhisker.md",
     "Characters/Vrellyn/Captain Ilyra Stormwing.md",
     "Characters/Vrellyn/Dr. Vessara Nightshade.md",
@@ -134,16 +138,16 @@
     "Characters/Vrellyn/Veridia Mycelis.md",
     "Characters/Vrellyn/Veska Tumblewood.md",
     "Characters/Archivist Yzrivix.md",
+    "Characters/Archprelate of Ledgers Valeria Silvershade.md",
     "Characters/Emy.md",
     "Characters/Ivy.md",
     "Characters/Lylwyth the Laughing Leaf.md",
-    "Characters/Renna Windrider.md",
     "Characters/Sapphire King.md",
     "Characters/Thalor Moonveil.md",
     "Entities & Phenomena/Kazgoroth.md",
     "Entities & Phenomena/The Arcana-Storm.md",
+    "Entities & Phenomena/The Fabric.md",
     "Entities & Phenomena/The Moth Tree.md",
-    "Entities & Phenomena/The Tapestry.md",
     "Images/Chwinga.png",
     "Images/eastExtensionIdeasDetail.JPG",
     "Images/northEastExtensionBiomes.JPG",
@@ -161,44 +165,56 @@
     "Locations/Landforms/Drakonspyne Mountains.md",
     "Locations/Landforms/Glistening Canopy.md",
     "Locations/Landforms/Twin Rivers.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Agatha's Bedroom.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Annabelle's Room.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Attic.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Bathroom.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Courtyard.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Dining Hall.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Foyer.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Front Entrance.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Hallway.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Kitchen.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Laboratory.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Library.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Puzzle Room.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Roof Garden.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Sewers.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Study.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/The Grove.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Connections.canvas",
+    "Locations/Landmarks/Establishments/Dealing Manor/Dealing Manor.md",
+    "Locations/Landmarks/Establishments/Dealing Manor/Dealing Manor Layout.canvas",
+    "Locations/Landmarks/Establishments/Dealing Manor/DealingManorPuzzle.png",
+    "Locations/Landmarks/Establishments/Aegis Bastion.md",
+    "Locations/Landmarks/Establishments/Aegis Sancta.md",
+    "Locations/Landmarks/Establishments/Arbiter’s Call.md",
+    "Locations/Landmarks/Establishments/Grand Cathedral.md",
+    "Locations/Landmarks/Establishments/The Bastion of Judgment.md",
+    "Locations/Landmarks/Establishments/The Codexorium.md",
+    "Locations/Landmarks/Establishments/The Lord’s Tithe Commission.md",
+    "Locations/Landmarks/Establishments/The Vault of Penance.md",
     "Locations/Landmarks/Ark Tower.md",
     "Locations/Landmarks/The Eye.md",
-    "Locations/Regions/Draconia.md",
     "Locations/Regions/Fellsaire.md",
     "Locations/Regions/Hly'draug.md",
     "Locations/Regions/Kagecombs.md",
     "Locations/Regions/Loierr Fenest.md",
     "Locations/Regions/Nontuersans.md",
     "Locations/Regions/Scorched Sea.md",
-    "Locations/Regions/The Fallen Isles.md",
     "Locations/Regions/Windbor Coast.md",
     "Locations/Settlements/Draconic Empire/Establishments/The Sunforged Coliseum.md",
+    "Locations/Settlements/Draconic Empire/Subpages/Draconian Economy and Industry.md",
     "Locations/Settlements/Draconic Empire/Subpages/Draconian Geography and Layout.md",
     "Locations/Settlements/Draconic Empire/Subpages/Draconian Governance and Power.md",
     "Locations/Settlements/Draconic Empire/Subpages/Draconian Mysticism and Threats.md",
     "Locations/Settlements/Draconic Empire/Subpages/Draconian NPC Directory.md",
+    "Locations/Settlements/Draconic Empire/Subpages/Draconian Relations and Neighbours.md",
+    "Locations/Settlements/Draconic Empire/Subpages/Draconian Society and Culture.md",
+    "Locations/Settlements/Draconic Empire/Draconia.md",
     "Locations/Settlements/Draconic Empire/Empir Draconi.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Agatha's Bedroom.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Annabelle's Room.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Attic.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Bathroom.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Courtyard.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Dining Hall.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Foyer.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Front Entrance.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Hallway.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Kitchen.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Laboratory.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Library.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Puzzle Room.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Roof Garden.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Sewers.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Study.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/The Grove.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Connections.canvas",
-    "Locations/Settlements/Establishments/Dealing Manor/Dealing Manor.md",
-    "Locations/Settlements/Establishments/Dealing Manor/Dealing Manor Layout.canvas",
-    "Locations/Settlements/Establishments/Dealing Manor/DealingManorPuzzle.png",
+    "Locations/Settlements/Ebben Tidecourt/Subpages/Vetham NPC Directory.md",
+    "Locations/Settlements/Ebben Tidecourt/Vethmar.md",
     "Locations/Settlements/Haven of Hale/Establishments/Brighton's Fix and Fidget.md",
     "Locations/Settlements/Haven of Hale/Establishments/The Moon's Moxxy.md",
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Economy and Industries.md",
@@ -209,6 +225,14 @@
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Relations and Neighbours.md",
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Society and Culture.md",
     "Locations/Settlements/Haven of Hale/Hellhaven.md",
+    "Locations/Settlements/Haven of Hale/Hierarchy.canvas",
+    "Locations/Settlements/Haven of Hale/Layout.canvas",
+    "Locations/Settlements/Miscellaneous Meta/Cuirefyn Relations and Neighbours.md",
+    "Locations/Settlements/Miscellaneous Meta/Grimvariant Governance and Power.md",
+    "Locations/Settlements/The Free Isles/Subpages/Istreccian NPC Directory.md",
+    "Locations/Settlements/The Free Isles/Hangman's Isle.md",
+    "Locations/Settlements/The Free Isles/Istrecce.md",
+    "Locations/Settlements/The Free Isles/The Fallen Isles.md",
     "Locations/Settlements/The Verdant City/Districts/Hivedrums.md",
     "Locations/Settlements/The Verdant City/Establishments/Illumion.md",
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Economy and Industries.md",
@@ -219,23 +243,24 @@
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Relations and Neighbours.md",
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Society and Culture.md",
     "Locations/Settlements/The Verdant City/Vrellyn.md",
-    "Locations/Settlements/Barong.md",
-    "Locations/Settlements/Bo Renn.md",
-    "Locations/Settlements/Cartoccian.md",
-    "Locations/Settlements/Cuirefyn.md",
-    "Locations/Settlements/Dreka Goro.md",
-    "Locations/Settlements/Irrhilm.md",
-    "Locations/Settlements/Istrecce.md",
-    "Locations/Settlements/Mistle Town.md",
-    "Locations/Settlements/Rellavoss.md",
-    "Locations/Settlements/Sauztein Geb.md",
-    "Locations/Settlements/Schtadtvertt.md",
-    "Locations/Settlements/Snowvale.md",
-    "Locations/Settlements/Vergrenzig.md",
-    "Locations/Settlements/Vethmar.md",
-    "Locations/Settlements/Zillmorkur.md",
+    "Locations/Settlements/The Vermilion Republic/Subpages/Lavoss Governance and Power.md",
+    "Locations/Settlements/The Vermilion Republic/Subpages/Lavoss NPC Directory.md",
+    "Locations/Settlements/The Vermilion Republic/Rellavoss.md",
+    "Locations/Settlements/TO BE FLESHED/Aexithis.md",
+    "Locations/Settlements/TO BE FLESHED/Barong.md",
+    "Locations/Settlements/TO BE FLESHED/Bo Renn.md",
+    "Locations/Settlements/TO BE FLESHED/Cartoccian.md",
+    "Locations/Settlements/TO BE FLESHED/Cuirefyn.md",
+    "Locations/Settlements/TO BE FLESHED/Dreka Goro.md",
+    "Locations/Settlements/TO BE FLESHED/Irrhilm.md",
+    "Locations/Settlements/TO BE FLESHED/Khoz-Grimvar.md",
+    "Locations/Settlements/TO BE FLESHED/Mistle Town.md",
+    "Locations/Settlements/TO BE FLESHED/Sauztein Geb.md",
+    "Locations/Settlements/TO BE FLESHED/Schtadtvertt.md",
+    "Locations/Settlements/TO BE FLESHED/Snowvale.md",
+    "Locations/Settlements/TO BE FLESHED/Vergrenzig.md",
+    "Locations/Settlements/TO BE FLESHED/Zillmorkur.md",
     "Locations/Fellsaire_Map.canvas",
-    "Locations/Hangman's Isle.md",
     "Locations/Lune.md",
     "Lore/Flora and Fauna/Dragons.md",
     "Lore/Flora and Fauna/Yamishi.md",
@@ -282,12 +307,12 @@
     "Lore/Time/Timeline.canvas",
     "Meta/Inspiration/A Scoundrel Squandered.md",
     "Meta/Inspiration/Ideas and Inspiration.md",
-    "Meta/Inspiration/Location Profile Template.md",
     "Meta/A Guide to Umbrea.md",
     "Meta/Project Sigil.md",
     "Meta/Roots.md",
-    "Meta/Settlement Size Chart.md",
+    "Meta/Settlement Classification Chart.md",
     "Meta/Theo's 10,000 Questions.md",
+    "Meta/Umbrea Timeline.md",
     "Meta/Umbrea Worldbuilding TODO.md",
     "Organizations/Dread/The Ember Guard.md",
     "Organizations/Dread/The Exeltis Family.md",
@@ -299,11 +324,17 @@
     "Organizations/Dread/The Waterdeep Watch.md",
     "Organizations/Dread/The Witchlight Carnival.md",
     "Organizations/Blackthorn Consortium.md",
+    "Organizations/Chainmoor Consortium.md",
+    "Organizations/Concordat of Chains.md",
+    "Organizations/Creosmagi.md",
     "Organizations/Harmonium of Lore.md",
     "Organizations/Hellhaven Concord.md",
     "Organizations/Tempest Watch.md",
     "Organizations/The Blood Order.md",
+    "Organizations/The Forge Collective.md",
+    "Organizations/The Gilded Tribunal.md",
     "Organizations/The Godsforsaken.md",
+    "Organizations/The Sable Warden Conclave.md",
     "Organizations/Timekeep Tavern.md",
     "Organizations/Verdant Reclamation.md",
     "Pantheon/Domains/The Breath.md",
@@ -323,13 +354,16 @@
     "Pantheon/Gods/Omen.md",
     "Pantheon/Gods/The Big Spider.md",
     "Pantheon/Gods/The Raven.md",
-    "Races/Draconic Descendant.md",
-    "Races/Goblinoid.md",
-    "Races/Human.md",
-    "Races/Mulburrow.md",
-    "Races/Spirit Golem.md",
+    "Races/Homebrew/Draconic Descendant.md",
+    "Races/Homebrew/Goblinoid.md",
+    "Races/Homebrew/Human.md",
+    "Races/Homebrew/Mulburrow.md",
+    "Races/Homebrew/Spirit Golem.md",
+    "Races/Disambiguation.md",
+    "Template/Arcane Phenomenon Template.md",
     "Template/Character Template.md",
     "Template/Deity Template.md",
+    "Template/Deprecated.md",
     "Template/Domain Template.md",
     "Template/Economy and Industries Page.md",
     "Template/Era Template.md",
@@ -337,19 +371,21 @@
     "Template/Event Template.md",
     "Template/Geography and Layout Page.md",
     "Template/Governance and Power Page.md",
-    "Template/Location Simple Profile.md",
+    "Template/Landmark Template.md",
     "Template/Location Template.md",
     "Template/Mysticism and Threats Page.md",
     "Template/NPC Directory Page.md",
     "Template/Organization Template.md",
+    "Template/Outpost Profile.md",
     "Template/Race Template.md",
     "Template/Relations and Neighbours Page.md",
     "Template/Session Template.md",
     "Template/Society and Culture Page.md",
     "Template/Style Guidelines.md",
+    "Template/Timeline.md",
     "lib/media/pharmopol-air-mask.png",
-    "lib/media/original-fellsaire-map.jpg",
     "lib/media/dealingmanorpuzzle.png",
+    "lib/media/original-fellsaire-map.jpg",
     "lib/media/the_moon.png",
     "lib/media/chwinga.png",
     "lib/media/zodar.png",
@@ -402,7 +438,6 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css"
   ],
@@ -456,721 +491,720 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
     "Characters/Dread/Dread Pirates/NPC's/Captain Arthur Seabane.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 252,
       "exportedPath": "characters/dread/dread-pirates/npc's/captain-arthur-seabane.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/NPC's/Captain Bulwrath.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 285,
       "exportedPath": "characters/dread/dread-pirates/npc's/captain-bulwrath.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/NPC's/Gath Burl.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 327,
       "exportedPath": "characters/dread/dread-pirates/npc's/gath-burl.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/NPC's/Tucker Carlisle.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 268,
       "exportedPath": "characters/dread/dread-pirates/npc's/tucker-carlisle.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/PC's/Cord Cadwell.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 227,
       "exportedPath": "characters/dread/dread-pirates/pc's/cord-cadwell.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/PC's/Finnagen Stonehelm.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 244,
       "exportedPath": "characters/dread/dread-pirates/pc's/finnagen-stonehelm.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/PC's/Grimalkin Cu-Sith.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 305,
       "exportedPath": "characters/dread/dread-pirates/pc's/grimalkin-cu-sith.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/PC's/Jackson.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 240,
       "exportedPath": "characters/dread/dread-pirates/pc's/jackson.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/PC's/Keros.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 224,
       "exportedPath": "characters/dread/dread-pirates/pc's/keros.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/PC's/Sveng Carlisle.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 9881,
       "exportedPath": "characters/dread/dread-pirates/pc's/sveng-carlisle.html",
       "dependencies": []
     },
     "Characters/Dread/Dread Pirates/PC's/Tyde Burl.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 275,
       "exportedPath": "characters/dread/dread-pirates/pc's/tyde-burl.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Adabra Gwynn.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 519,
       "exportedPath": "characters/dread/godsforsaken/npc's/adabra-gwynn.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Calliope.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 257,
       "exportedPath": "characters/dread/godsforsaken/npc's/calliope.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Droop.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 300,
       "exportedPath": "characters/dread/godsforsaken/npc's/droop.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Dyranielle Hithglad.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 433,
       "exportedPath": "characters/dread/godsforsaken/npc's/dyranielle-hithglad.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Engel Talstag.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 342,
       "exportedPath": "characters/dread/godsforsaken/npc's/engel-talstag.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Eugene Rockseeker.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 323,
       "exportedPath": "characters/dread/godsforsaken/npc's/eugene-rockseeker.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Luen Whiteflower.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 256,
       "exportedPath": "characters/dread/godsforsaken/npc's/luen-whiteflower.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Moraleigh Mightywillow.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 278,
       "exportedPath": "characters/dread/godsforsaken/npc's/moraleigh-mightywillow.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Nezznar Mizzrym.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 312,
       "exportedPath": "characters/dread/godsforsaken/npc's/nezznar-mizzrym.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Nundro Rockseeker.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 323,
       "exportedPath": "characters/dread/godsforsaken/npc's/nundro-rockseeker.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Ophal.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 306,
       "exportedPath": "characters/dread/godsforsaken/npc's/ophal.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Peren Nyangard.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 287,
       "exportedPath": "characters/dread/godsforsaken/npc's/peren-nyangard.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Steffan Marsk.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 426,
       "exportedPath": "characters/dread/godsforsaken/npc's/steffan-marsk.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Tharden Rockseeker.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 322,
       "exportedPath": "characters/dread/godsforsaken/npc's/tharden-rockseeker.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/Therai Windrivver.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 325,
       "exportedPath": "characters/dread/godsforsaken/npc's/therai-windrivver.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/NPC's/YashieraVakri.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 351,
       "exportedPath": "characters/dread/godsforsaken/npc's/yashieravakri.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Born Under the Bright Moon.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 400,
       "exportedPath": "characters/dread/godsforsaken/pc's/born-under-the-bright-moon.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Hoarfrost Ruina.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 317,
       "exportedPath": "characters/dread/godsforsaken/pc's/hoarfrost-ruina.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Lander (Drakkon) Strang.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 321,
       "exportedPath": "characters/dread/godsforsaken/pc's/lander-(drakkon)-strang.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Leandra Edhelwen.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 293,
       "exportedPath": "characters/dread/godsforsaken/pc's/leandra-edhelwen.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Norwick Dornuk.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 5666,
       "exportedPath": "characters/dread/godsforsaken/pc's/norwick-dornuk.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Pallabar Denizent.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 336,
       "exportedPath": "characters/dread/godsforsaken/pc's/pallabar-denizent.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Selakiir Mizzrym.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 408,
       "exportedPath": "characters/dread/godsforsaken/pc's/selakiir-mizzrym.html",
       "dependencies": []
     },
     "Characters/Dread/Godsforsaken/PC's/Titus (Tank) Dunnigan.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 277,
       "exportedPath": "characters/dread/godsforsaken/pc's/titus-(tank)-dunnigan.html",
       "dependencies": []
     },
     "Characters/Dread/LORE/Human Wizard.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 271,
       "exportedPath": "characters/dread/lore/human-wizard.html",
       "dependencies": []
     },
     "Characters/Dread/LORE/Tristan Kendrick.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 265,
       "exportedPath": "characters/dread/lore/tristan-kendrick.html",
       "dependencies": []
     },
     "Characters/Dread/LORE/Valen Searcher.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 994,
       "exportedPath": "characters/dread/lore/valen-searcher.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Christmas 22/Christopher Kringle.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 285,
       "exportedPath": "characters/dread/mini-games/christmas-22/christopher-kringle.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Christmas 22/Krinys.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 342,
       "exportedPath": "characters/dread/mini-games/christmas-22/krinys.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Christmas 22/Sir Shlips-a-lot.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 320,
       "exportedPath": "characters/dread/mini-games/christmas-22/sir-shlips-a-lot.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Christmas 22/Terry the Gift Giving Dragon.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 279,
       "exportedPath": "characters/dread/mini-games/christmas-22/terry-the-gift-giving-dragon.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Christmas 22/The Gunch.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 273,
       "exportedPath": "characters/dread/mini-games/christmas-22/the-gunch.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Alyn Everfrost.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 261,
       "exportedPath": "characters/dread/mini-games/clue/alyn-everfrost.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Ameri.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 364,
       "exportedPath": "characters/dread/mini-games/clue/ameri.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Arun Faefir.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 419,
       "exportedPath": "characters/dread/mini-games/clue/arun-faefir.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Cilil Eirneiros.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 333,
       "exportedPath": "characters/dread/mini-games/clue/cilil-eirneiros.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Detective Vert.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 411,
       "exportedPath": "characters/dread/mini-games/clue/detective-vert.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Eke.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 390,
       "exportedPath": "characters/dread/mini-games/clue/eke.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Falanir Exeltis.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 514,
       "exportedPath": "characters/dread/mini-games/clue/falanir-exeltis.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Hemal Coldstone.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 393,
       "exportedPath": "characters/dread/mini-games/clue/hemal-coldstone.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Jack Mortis.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 478,
       "exportedPath": "characters/dread/mini-games/clue/jack-mortis.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Jonath.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 262,
       "exportedPath": "characters/dread/mini-games/clue/jonath.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Jonathan Cortez.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 362,
       "exportedPath": "characters/dread/mini-games/clue/jonathan-cortez.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Larloch the Shadow King.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 334,
       "exportedPath": "characters/dread/mini-games/clue/larloch-the-shadow-king.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Luna the Faithful.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 498,
       "exportedPath": "characters/dread/mini-games/clue/luna-the-faithful.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Professor Persimmon.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 396,
       "exportedPath": "characters/dread/mini-games/clue/professor-persimmon.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Ronir Exeltis.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 253,
       "exportedPath": "characters/dread/mini-games/clue/ronir-exeltis.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Clue/Theodoros R. Barnet.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 334,
       "exportedPath": "characters/dread/mini-games/clue/theodoros-r.-barnet.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Dealing Manor/Annabelle.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 392,
       "exportedPath": "characters/dread/mini-games/dealing-manor/annabelle.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Dealing Manor/Athena.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 299,
       "exportedPath": "characters/dread/mini-games/dealing-manor/athena.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Dealing Manor/Daewynn Hithglad.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 312,
       "exportedPath": "characters/dread/mini-games/dealing-manor/daewynn-hithglad.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Dealing Manor/Fifi.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 360,
       "exportedPath": "characters/dread/mini-games/dealing-manor/fifi.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Dealing Manor/Jamiroquai.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 349,
       "exportedPath": "characters/dread/mini-games/dealing-manor/jamiroquai.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Dealing Manor/Osweld Thorpe.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 361,
       "exportedPath": "characters/dread/mini-games/dealing-manor/osweld-thorpe.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Dealing Manor/Stedd Evenwood.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 317,
       "exportedPath": "characters/dread/mini-games/dealing-manor/stedd-evenwood.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Escape Avernus/Circ Eirneiros.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 266,
       "exportedPath": "characters/dread/mini-games/escape-avernus/circ-eirneiros.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Escape Avernus/Nikoli.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 325,
       "exportedPath": "characters/dread/mini-games/escape-avernus/nikoli.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Aruza.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 352,
       "exportedPath": "characters/dread/mini-games/fey-break/aruza.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Barnabus.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 443,
       "exportedPath": "characters/dread/mini-games/fey-break/barnabus.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Courage Flioht-Bribodred.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 330,
       "exportedPath": "characters/dread/mini-games/fey-break/courage-flioht-bribodred.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Ellwick Fiddlefen.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 3939,
       "exportedPath": "characters/dread/mini-games/fey-break/ellwick-fiddlefen.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Gelenmyer Frankford.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 293,
       "exportedPath": "characters/dread/mini-games/fey-break/gelenmyer-frankford.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Karris Bribodred.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 547,
       "exportedPath": "characters/dread/mini-games/fey-break/karris-bribodred.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Koto.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 374,
       "exportedPath": "characters/dread/mini-games/fey-break/koto.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Shanx.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 393,
       "exportedPath": "characters/dread/mini-games/fey-break/shanx.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Fey Break/Winnona Flioht.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 331,
       "exportedPath": "characters/dread/mini-games/fey-break/winnona-flioht.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Prisoner 13/Abhanibull.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 338,
       "exportedPath": "characters/dread/mini-games/prisoner-13/abhanibull.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Prisoner 13/Barlow Rageblade.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 268,
       "exportedPath": "characters/dread/mini-games/prisoner-13/barlow-rageblade.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Prisoner 13/Kobo.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 311,
       "exportedPath": "characters/dread/mini-games/prisoner-13/kobo.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Prisoner 13/Marta Marthanes.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 246,
       "exportedPath": "characters/dread/mini-games/prisoner-13/marta-marthanes.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Prisoner 13/Mynksie.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 3831,
       "exportedPath": "characters/dread/mini-games/prisoner-13/mynksie.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Prisoner 13/Prisoner 13.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 258,
       "exportedPath": "characters/dread/mini-games/prisoner-13/prisoner-13.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Prisoner 13/Prisoner 132.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 280,
       "exportedPath": "characters/dread/mini-games/prisoner-13/prisoner-132.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Sunless Citadell/Carelle.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 278,
       "exportedPath": "characters/dread/mini-games/sunless-citadell/carelle.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Sunless Citadell/Cyran Hallows.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 317,
       "exportedPath": "characters/dread/mini-games/sunless-citadell/cyran-hallows.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Sunless Citadell/Karl.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 293,
       "exportedPath": "characters/dread/mini-games/sunless-citadell/karl.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Sunless Citadell/Rat.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 262,
       "exportedPath": "characters/dread/mini-games/sunless-citadell/rat.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Ackley Reeves.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 329,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/ackley-reeves.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Captain Schklormscht.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 320,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/captain-schklormscht.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Count Chocula.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 273,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/count-chocula.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Dr. Edward Schiefer.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 413,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/dr.-edward-schiefer.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Draven.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 265,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/draven.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Isadorae.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 372,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/isadorae.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Lord Bjorn Cedarshard.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 393,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/lord-bjorn-cedarshard.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Rainer Goldfound.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 268,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/rainer-goldfound.html",
       "dependencies": []
     },
     "Characters/Dread/Mini Games/Tomb of Horrors/Scales Jr..md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 265,
       "exportedPath": "characters/dread/mini-games/tomb-of-horrors/scales-jr..html",
       "dependencies": []
     },
     "Characters/Misc/Geisswyn.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1133,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1147,
       "exportedPath": "characters/misc/geisswyn.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Brelwin Mosswhisker.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 793,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 797,
       "exportedPath": "characters/vrellyn/brelwin-mosswhisker.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Captain Ilyra Stormwing.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 716,
       "exportedPath": "characters/vrellyn/captain-ilyra-stormwing.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Dr. Vessara Nightshade.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 819,
       "exportedPath": "characters/vrellyn/dr.-vessara-nightshade.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Elara Dewbloom.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 656,
       "exportedPath": "characters/vrellyn/elara-dewbloom.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Eledra Vauntree.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 786,
       "exportedPath": "characters/vrellyn/eledra-vauntree.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Ely Brambles.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1959,
       "exportedPath": "characters/vrellyn/ely-brambles.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Eryndor Lirieth.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 862,
       "exportedPath": "characters/vrellyn/eryndor-lirieth.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Gorlan Emberstone.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 714,
       "exportedPath": "characters/vrellyn/gorlan-emberstone.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Grimwald Hartstone.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 731,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 739,
       "exportedPath": "characters/vrellyn/grimwald-hartstone.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Jasper Windwhistle.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 754,
       "exportedPath": "characters/vrellyn/jasper-windwhistle.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Jaxen Murkdust.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 859,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 863,
       "exportedPath": "characters/vrellyn/jaxen-murkdust.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Kaela Thorne.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 794,
       "exportedPath": "characters/vrellyn/kaela-thorne.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Liora Sunpetal.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 732,
       "exportedPath": "characters/vrellyn/liora-sunpetal.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Lurik Thornspore.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 610,
       "exportedPath": "characters/vrellyn/lurik-thornspore.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Marena Duskwither.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 768,
       "exportedPath": "characters/vrellyn/marena-duskwither.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Marlo Thickbranch.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 736,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 740,
       "exportedPath": "characters/vrellyn/marlo-thickbranch.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Merrik Hartstone.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 795,
       "exportedPath": "characters/vrellyn/merrik-hartstone.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Nala Dewshine.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 772,
       "exportedPath": "characters/vrellyn/nala-dewshine.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Nalir Duskthorn.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 831,
       "exportedPath": "characters/vrellyn/nalir-duskthorn.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Orin Leafstride.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 777,
       "exportedPath": "characters/vrellyn/orin-leafstride.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Ralvi Thornbranch.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 807,
       "exportedPath": "characters/vrellyn/ralvi-thornbranch.html",
       "dependencies": [
@@ -1178,117 +1212,105 @@
       ]
     },
     "Characters/Vrellyn/Selari Windveil.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 706,
       "exportedPath": "characters/vrellyn/selari-windveil.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Seren Mossveil.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 935,
       "exportedPath": "characters/vrellyn/seren-mossveil.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Silvia Brightspore.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 727,
       "exportedPath": "characters/vrellyn/silvia-brightspore.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Terri Quick.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 755,
       "exportedPath": "characters/vrellyn/terri-quick.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Thrynn Barkrot.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 645,
       "exportedPath": "characters/vrellyn/thrynn-barkrot.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Vandor Silverbough.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 825,
       "exportedPath": "characters/vrellyn/vandor-silverbough.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Veridia Mycelis.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 645,
       "exportedPath": "characters/vrellyn/veridia-mycelis.html",
       "dependencies": []
     },
     "Characters/Vrellyn/Veska Tumblewood.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 707,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 711,
       "exportedPath": "characters/vrellyn/veska-tumblewood.html",
       "dependencies": []
     },
     "Characters/Archivist Yzrivix.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 583,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 579,
       "exportedPath": "characters/archivist-yzrivix.html",
       "dependencies": []
     },
     "Characters/Emy.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 275,
       "exportedPath": "characters/emy.html",
       "dependencies": []
     },
     "Characters/Ivy.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 275,
       "exportedPath": "characters/ivy.html",
       "dependencies": []
     },
     "Characters/Lylwyth the Laughing Leaf.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 834,
       "exportedPath": "characters/lylwyth-the-laughing-leaf.html",
       "dependencies": []
     },
-    "Characters/Renna Windrider.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 715,
-      "exportedPath": "characters/renna-windrider.html",
-      "dependencies": []
-    },
     "Characters/Sapphire King.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 297,
       "exportedPath": "characters/sapphire-king.html",
       "dependencies": []
     },
     "Characters/Thalor Moonveil.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 814,
       "exportedPath": "characters/thalor-moonveil.html",
       "dependencies": []
     },
     "Entities & Phenomena/Kazgoroth.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 114,
       "exportedPath": "entities-&-phenomena/kazgoroth.html",
       "dependencies": []
     },
     "Entities & Phenomena/The Arcana-Storm.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 25,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 114,
       "exportedPath": "entities-&-phenomena/the-arcana-storm.html",
       "dependencies": []
     },
     "Entities & Phenomena/The Moth Tree.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 43,
       "exportedPath": "entities-&-phenomena/the-moth-tree.html",
-      "dependencies": []
-    },
-    "Entities & Phenomena/The Tapestry.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 0,
-      "exportedPath": "entities-&-phenomena/the-tapestry.html",
       "dependencies": []
     },
     "Images/Chwinga.png": {
@@ -1340,79 +1362,73 @@
       "dependencies": []
     },
     "Locations/Dread/Karador.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 396,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 383,
       "exportedPath": "locations/dread/karador.html",
       "dependencies": []
     },
     "Locations/Dread/Mortis Manor.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 216,
       "exportedPath": "locations/dread/mortis-manor.html",
       "dependencies": []
     },
     "Locations/Dread/Revel's End.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 207,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 194,
       "exportedPath": "locations/dread/revel's-end.html",
       "dependencies": []
     },
     "Locations/Dread/Sunless Citadel.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 250,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 237,
       "exportedPath": "locations/dread/sunless-citadel.html",
       "dependencies": []
     },
     "Locations/Dread/The Crimson Fruit.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 221,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 208,
       "exportedPath": "locations/dread/the-crimson-fruit.html",
       "dependencies": []
     },
     "Locations/Landforms/Chasm.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 206,
       "exportedPath": "locations/landforms/chasm.html",
       "dependencies": []
     },
     "Locations/Landforms/Drakonspyne Mountains.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 140,
       "exportedPath": "locations/landforms/drakonspyne-mountains.html",
       "dependencies": []
     },
     "Locations/Landforms/Glistening Canopy.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 157,
       "exportedPath": "locations/landforms/glistening-canopy.html",
       "dependencies": []
     },
     "Locations/Landforms/Twin Rivers.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 140,
       "exportedPath": "locations/landforms/twin-rivers.html",
       "dependencies": []
     },
     "Locations/Landmarks/Ark Tower.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 445,
       "exportedPath": "locations/landmarks/ark-tower.html",
       "dependencies": []
     },
     "Locations/Landmarks/The Eye.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 215,
       "exportedPath": "locations/landmarks/the-eye.html",
       "dependencies": []
     },
-    "Locations/Regions/Draconia.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 867,
-      "exportedPath": "locations/regions/draconia.html",
-      "dependencies": []
-    },
     "Locations/Regions/Fellsaire.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 454,
       "exportedPath": "locations/regions/fellsaire.html",
       "dependencies": [
@@ -1420,43 +1436,37 @@
       ]
     },
     "Locations/Regions/Hly'draug.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 305,
       "exportedPath": "locations/regions/hly'draug.html",
       "dependencies": []
     },
     "Locations/Regions/Kagecombs.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 158,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 171,
       "exportedPath": "locations/regions/kagecombs.html",
       "dependencies": []
     },
     "Locations/Regions/Loierr Fenest.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 574,
       "exportedPath": "locations/regions/loierr-fenest.html",
       "dependencies": []
     },
     "Locations/Regions/Nontuersans.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 319,
       "exportedPath": "locations/regions/nontuersans.html",
       "dependencies": []
     },
     "Locations/Regions/Scorched Sea.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 396,
       "exportedPath": "locations/regions/scorched-sea.html",
       "dependencies": []
     },
-    "Locations/Regions/The Fallen Isles.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 247,
-      "exportedPath": "locations/regions/the-fallen-isles.html",
-      "dependencies": []
-    },
     "Locations/Regions/Windbor Coast.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 445,
       "exportedPath": "locations/regions/windbor-coast.html",
       "dependencies": []
@@ -1468,389 +1478,165 @@
       "dependencies": []
     },
     "Locations/Settlements/Draconic Empire/Subpages/Draconian Geography and Layout.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 5552,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 5561,
       "exportedPath": "locations/settlements/draconic-empire/subpages/draconian-geography-and-layout.html",
       "dependencies": []
     },
     "Locations/Settlements/Draconic Empire/Subpages/Draconian Governance and Power.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 3784,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 3809,
       "exportedPath": "locations/settlements/draconic-empire/subpages/draconian-governance-and-power.html",
       "dependencies": []
     },
     "Locations/Settlements/Draconic Empire/Subpages/Draconian Mysticism and Threats.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 4082,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 4097,
       "exportedPath": "locations/settlements/draconic-empire/subpages/draconian-mysticism-and-threats.html",
       "dependencies": []
     },
     "Locations/Settlements/Draconic Empire/Subpages/Draconian NPC Directory.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 3466,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 3487,
       "exportedPath": "locations/settlements/draconic-empire/subpages/draconian-npc-directory.html",
       "dependencies": []
     },
     "Locations/Settlements/Draconic Empire/Empir Draconi.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 907,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 917,
       "exportedPath": "locations/settlements/draconic-empire/empir-draconi.html",
       "dependencies": []
     },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Agatha's Bedroom.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1227,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/agatha's-bedroom.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Annabelle's Room.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1161,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/annabelle's-room.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Attic.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 672,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/attic.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Bathroom.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 404,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/bathroom.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Courtyard.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 912,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/courtyard.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Dining Hall.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 923,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/dining-hall.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Foyer.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1187,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/foyer.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Front Entrance.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 605,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/front-entrance.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Hallway.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1185,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/hallway.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Kitchen.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 831,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/kitchen.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Laboratory.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 748,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/laboratory.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Library.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 665,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/library.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Puzzle Room.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 871,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/puzzle-room.html",
-      "dependencies": [
-        "lib/media/dealingmanorpuzzle.png"
-      ]
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Roof Garden.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1355,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/roof-garden.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Sewers.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 649,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/sewers.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/Study.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1630,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/study.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Manor Locations/The Grove.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 901,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/manor-locations/the-grove.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Connections.canvas": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 8344,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/connections.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Dealing Manor.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 2737,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/dealing-manor.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/Dealing Manor Layout.canvas": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 6990,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/dealing-manor-layout.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Establishments/Dealing Manor/DealingManorPuzzle.png": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 107708,
-      "exportedPath": "locations/settlements/establishments/dealing-manor/dealingmanorpuzzle.png",
-      "dependencies": []
-    },
     "Locations/Settlements/Haven of Hale/Establishments/Brighton's Fix and Fidget.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1457,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1561,
       "exportedPath": "locations/settlements/haven-of-hale/establishments/brighton's-fix-and-fidget.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Establishments/The Moon's Moxxy.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 128,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 348,
       "exportedPath": "locations/settlements/haven-of-hale/establishments/the-moon's-moxxy.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Economy and Industries.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 9534,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 10462,
       "exportedPath": "locations/settlements/haven-of-hale/subpages/hellhapfen-economy-and-industries.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Geography and Layout.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 9533,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 9461,
       "exportedPath": "locations/settlements/haven-of-hale/subpages/hellhapfen-geography-and-layout.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Governance and Power.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 7459,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 10314,
       "exportedPath": "locations/settlements/haven-of-hale/subpages/hellhapfen-governance-and-power.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Mysticism and Threats.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 5282,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 5441,
       "exportedPath": "locations/settlements/haven-of-hale/subpages/hellhapfen-mysticism-and-threats.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen NPC Directory.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 25557,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 32648,
       "exportedPath": "locations/settlements/haven-of-hale/subpages/hellhapfen-npc-directory.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Relations and Neighbours.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 5159,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 5207,
       "exportedPath": "locations/settlements/haven-of-hale/subpages/hellhapfen-relations-and-neighbours.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Subpages/Hellhapfen Society and Culture.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 3859,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 3786,
       "exportedPath": "locations/settlements/haven-of-hale/subpages/hellhapfen-society-and-culture.html",
       "dependencies": []
     },
     "Locations/Settlements/Haven of Hale/Hellhaven.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 12582,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 12408,
       "exportedPath": "locations/settlements/haven-of-hale/hellhaven.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Districts/Hivedrums.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 140,
       "exportedPath": "locations/settlements/the-verdant-city/districts/hivedrums.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Establishments/Illumion.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 41,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 259,
       "exportedPath": "locations/settlements/the-verdant-city/establishments/illumion.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Economy and Industries.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 11735,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 11696,
       "exportedPath": "locations/settlements/the-verdant-city/subpages/vrelline-economy-and-industries.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Geography and Layout.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 9312,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 9262,
       "exportedPath": "locations/settlements/the-verdant-city/subpages/vrelline-geography-and-layout.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Governance and Power.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 11009,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 10994,
       "exportedPath": "locations/settlements/the-verdant-city/subpages/vrelline-governance-and-power.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Mysticism and Threats.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 6647,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 6633,
       "exportedPath": "locations/settlements/the-verdant-city/subpages/vrelline-mysticism-and-threats.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Subpages/Vrelline NPC Directory.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 5236,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 5185,
       "exportedPath": "locations/settlements/the-verdant-city/subpages/vrelline-npc-directory.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Relations and Neighbours.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 4431,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 4380,
       "exportedPath": "locations/settlements/the-verdant-city/subpages/vrelline-relations-and-neighbours.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Subpages/Vrelline Society and Culture.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 6339,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 6310,
       "exportedPath": "locations/settlements/the-verdant-city/subpages/vrelline-society-and-culture.html",
       "dependencies": []
     },
     "Locations/Settlements/The Verdant City/Vrellyn.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 14845,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 14859,
       "exportedPath": "locations/settlements/the-verdant-city/vrellyn.html",
       "dependencies": []
     },
-    "Locations/Settlements/Barong.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 539,
-      "exportedPath": "locations/settlements/barong.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Bo Renn.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 333,
-      "exportedPath": "locations/settlements/bo-renn.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Cartoccian.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 856,
-      "exportedPath": "locations/settlements/cartoccian.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Cuirefyn.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 694,
-      "exportedPath": "locations/settlements/cuirefyn.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Dreka Goro.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 472,
-      "exportedPath": "locations/settlements/dreka-goro.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Irrhilm.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 513,
-      "exportedPath": "locations/settlements/irrhilm.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Istrecce.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 989,
-      "exportedPath": "locations/settlements/istrecce.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Mistle Town.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 459,
-      "exportedPath": "locations/settlements/mistle-town.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Rellavoss.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 962,
-      "exportedPath": "locations/settlements/rellavoss.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Sauztein Geb.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 336,
-      "exportedPath": "locations/settlements/sauztein-geb.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Schtadtvertt.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 207,
-      "exportedPath": "locations/settlements/schtadtvertt.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Snowvale.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 308,
-      "exportedPath": "locations/settlements/snowvale.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Vergrenzig.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 182,
-      "exportedPath": "locations/settlements/vergrenzig.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Vethmar.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 961,
-      "exportedPath": "locations/settlements/vethmar.html",
-      "dependencies": []
-    },
-    "Locations/Settlements/Zillmorkur.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 223,
-      "exportedPath": "locations/settlements/zillmorkur.html",
-      "dependencies": []
-    },
     "Locations/Fellsaire_Map.canvas": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 2665,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 2816,
       "exportedPath": "locations/fellsaire_map.html",
       "dependencies": [
         "lib/media/original-fellsaire-map.jpg"
       ]
     },
-    "Locations/Hangman's Isle.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 372,
-      "exportedPath": "locations/hangman's-isle.html",
-      "dependencies": []
-    },
     "Locations/Lune.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 297,
       "exportedPath": "locations/lune.html",
       "dependencies": [
@@ -1858,49 +1644,49 @@
       ]
     },
     "Lore/Flora and Fauna/Dragons.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 479,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 503,
       "exportedPath": "lore/flora-and-fauna/dragons.html",
       "dependencies": []
     },
     "Lore/Flora and Fauna/Yamishi.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 157,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 262,
       "exportedPath": "lore/flora-and-fauna/yamishi.html",
       "dependencies": []
     },
     "Lore/Historical Figures/Trent Trout.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 207,
       "exportedPath": "lore/historical-figures/trent-trout.html",
       "dependencies": []
     },
     "Lore/Mechanics/Petrolune.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 1284,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1298,
       "exportedPath": "lore/mechanics/petrolune.html",
       "dependencies": []
     },
     "Lore/Mechanics/Regaining Humanity.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 4881,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 4889,
       "exportedPath": "lore/mechanics/regaining-humanity.html",
       "dependencies": []
     },
     "Lore/Mechanics/Soul Weaver.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 58,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 50,
       "exportedPath": "lore/mechanics/soul-weaver.html",
       "dependencies": []
     },
     "Lore/Session Planning/Dread/Letter to Norwick.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1017,
       "exportedPath": "lore/session-planning/dread/letter-to-norwick.html",
       "dependencies": []
     },
     "Lore/Session Planning/Dread/Um... Actually.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 184,
       "exportedPath": "lore/session-planning/dread/um...-actually.html",
       "dependencies": []
@@ -1912,257 +1698,245 @@
       "dependencies": []
     },
     "Lore/Session Planning/Undead Assassin.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 2654,
       "exportedPath": "lore/session-planning/undead-assassin.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/1 Ominous Ramblings.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 955,
       "exportedPath": "lore/session-recaps/dread/1-ominous-ramblings.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/2 Jailbreak.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 766,
       "exportedPath": "lore/session-recaps/dread/2-jailbreak.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/3 Monkey Favors.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 470,
       "exportedPath": "lore/session-recaps/dread/3-monkey-favors.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/4 Whisper Tantrum.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 872,
       "exportedPath": "lore/session-recaps/dread/4-whisper-tantrum.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/5 'Round the Campfire.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 436,
       "exportedPath": "lore/session-recaps/dread/5-'round-the-campfire.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/6 Tunneling Suspicions.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 241,
       "exportedPath": "lore/session-recaps/dread/6-tunneling-suspicions.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/7 Ruby and Stone.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 127,
       "exportedPath": "lore/session-recaps/dread/7-ruby-and-stone.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/8 Big Problems, Worse Solutions.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 2625,
       "exportedPath": "lore/session-recaps/dread/8-big-problems,-worse-solutions.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/9 Shattered Expectations.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1724,
       "exportedPath": "lore/session-recaps/dread/9-shattered-expectations.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/10 Into Strange Places.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 830,
       "exportedPath": "lore/session-recaps/dread/10-into-strange-places.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/11 The Awakening.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1731,
       "exportedPath": "lore/session-recaps/dread/11-the-awakening.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/12 Family Ties.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1521,
       "exportedPath": "lore/session-recaps/dread/12-family-ties.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/13 Ahh Downtime.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1984,
       "exportedPath": "lore/session-recaps/dread/13-ahh-downtime.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/14 Math Rocks.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 2588,
       "exportedPath": "lore/session-recaps/dread/14-math-rocks.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/15 Side Quest Shopping.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 3123,
       "exportedPath": "lore/session-recaps/dread/15-side-quest-shopping.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/16 Dire Needs and Desperate Measures.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1976,
       "exportedPath": "lore/session-recaps/dread/16-dire-needs-and-desperate-measures.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/17 Froggy Weather.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1816,
       "exportedPath": "lore/session-recaps/dread/17-froggy-weather.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/18 Strange Dreams.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 6682,
       "exportedPath": "lore/session-recaps/dread/18-strange-dreams.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/19 I Don't Like this Very Mulch.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 2627,
       "exportedPath": "lore/session-recaps/dread/19-i-don't-like-this-very-mulch.html",
       "dependencies": []
     },
     "Lore/Session Recaps/Dread/Clues of The Mortis Manor.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 5301,
       "exportedPath": "lore/session-recaps/dread/clues-of-the-mortis-manor.html",
       "dependencies": []
     },
     "Lore/Time/Eras/Gnosichron.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 337,
       "exportedPath": "lore/time/eras/gnosichron.html",
       "dependencies": []
     },
     "Lore/Time/Eras/Irachron.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 500,
       "exportedPath": "lore/time/eras/irachron.html",
       "dependencies": []
     },
     "Lore/Time/Eras/Luxichron.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 137,
       "exportedPath": "lore/time/eras/luxichron.html",
       "dependencies": []
     },
     "Lore/Time/Eras/Novachron.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 608,
       "exportedPath": "lore/time/eras/novachron.html",
       "dependencies": []
     },
     "Lore/Time/Eras/Tenechron.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 365,
       "exportedPath": "lore/time/eras/tenechron.html",
       "dependencies": []
     },
     "Lore/Time/Major Events/Destruction of Draconia.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 228,
       "exportedPath": "lore/time/major-events/destruction-of-draconia.html",
       "dependencies": []
     },
     "Lore/Time/Major Events/Dragon-Giant War.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 131,
       "exportedPath": "lore/time/major-events/dragon-giant-war.html",
       "dependencies": []
     },
     "Lore/Time/Major Events/God's Binding.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 114,
       "exportedPath": "lore/time/major-events/god's-binding.html",
       "dependencies": []
     },
     "Lore/Time/Major Events/Guerr Estres.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 518,
       "exportedPath": "lore/time/major-events/guerr-estres.html",
       "dependencies": []
     },
     "Lore/Time/Major Events/The Ark's Arrival.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 294,
       "exportedPath": "lore/time/major-events/the-ark's-arrival.html",
       "dependencies": []
     },
     "Lore/Time/Major Events/The Dread.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 127,
       "exportedPath": "lore/time/major-events/the-dread.html",
       "dependencies": []
     },
     "Lore/Time/Calendar System.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 2202,
       "exportedPath": "lore/time/calendar-system.html",
       "dependencies": []
     },
     "Lore/Time/Timeline.canvas": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 2905,
       "exportedPath": "lore/time/timeline.html",
       "dependencies": []
     },
     "Meta/Inspiration/A Scoundrel Squandered.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 2571,
       "exportedPath": "meta/inspiration/a-scoundrel-squandered.html",
       "dependencies": []
     },
     "Meta/Inspiration/Ideas and Inspiration.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 2520,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 2544,
       "exportedPath": "meta/inspiration/ideas-and-inspiration.html",
       "dependencies": [
         "lib/media/chwinga.png",
         "lib/media/zodar.png"
       ]
     },
-    "Meta/Inspiration/Location Profile Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 2892,
-      "exportedPath": "meta/inspiration/location-profile-template.html",
-      "dependencies": []
-    },
     "Meta/A Guide to Umbrea.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 6838,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 6984,
       "exportedPath": "meta/a-guide-to-umbrea.html",
       "dependencies": []
     },
     "Meta/Project Sigil.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 307,
       "exportedPath": "meta/project-sigil.html",
       "dependencies": []
     },
     "Meta/Roots.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 15214,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 15238,
       "exportedPath": "meta/roots.html",
       "dependencies": []
     },
-    "Meta/Settlement Size Chart.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 152,
-      "exportedPath": "meta/settlement-size-chart.html",
-      "dependencies": []
-    },
     "Meta/Theo's 10,000 Questions.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 4557,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 4581,
       "exportedPath": "meta/theo's-10,000-questions.html",
       "dependencies": []
     },
@@ -2173,679 +1947,643 @@
       "dependencies": []
     },
     "Organizations/Dread/The Ember Guard.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 216,
       "exportedPath": "organizations/dread/the-ember-guard.html",
       "dependencies": []
     },
     "Organizations/Dread/The Exeltis Family.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 258,
       "exportedPath": "organizations/dread/the-exeltis-family.html",
       "dependencies": []
     },
     "Organizations/Dread/The Neverwinter Hunters.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 236,
       "exportedPath": "organizations/dread/the-neverwinter-hunters.html",
       "dependencies": []
     },
     "Organizations/Dread/The Neverwinter Rifle Corps.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 323,
       "exportedPath": "organizations/dread/the-neverwinter-rifle-corps.html",
       "dependencies": []
     },
     "Organizations/Dread/The Redbrands.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 221,
       "exportedPath": "organizations/dread/the-redbrands.html",
       "dependencies": []
     },
     "Organizations/Dread/The Trailblazers.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 392,
       "exportedPath": "organizations/dread/the-trailblazers.html",
       "dependencies": []
     },
     "Organizations/Dread/The Waterdeep Guard.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 155,
       "exportedPath": "organizations/dread/the-waterdeep-guard.html",
       "dependencies": []
     },
     "Organizations/Dread/The Waterdeep Watch.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 195,
       "exportedPath": "organizations/dread/the-waterdeep-watch.html",
       "dependencies": []
     },
     "Organizations/Dread/The Witchlight Carnival.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 237,
       "exportedPath": "organizations/dread/the-witchlight-carnival.html",
       "dependencies": []
     },
     "Organizations/Blackthorn Consortium.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 0,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 158,
       "exportedPath": "organizations/blackthorn-consortium.html",
       "dependencies": []
     },
     "Organizations/Harmonium of Lore.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 0,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 203,
       "exportedPath": "organizations/harmonium-of-lore.html",
       "dependencies": []
     },
     "Organizations/Hellhaven Concord.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 441,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 641,
       "exportedPath": "organizations/hellhaven-concord.html",
       "dependencies": []
     },
     "Organizations/Tempest Watch.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 195,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 240,
       "exportedPath": "organizations/tempest-watch.html",
       "dependencies": []
     },
     "Organizations/The Blood Order.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 167,
       "exportedPath": "organizations/the-blood-order.html",
       "dependencies": []
     },
     "Organizations/The Godsforsaken.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 730,
       "exportedPath": "organizations/the-godsforsaken.html",
       "dependencies": []
     },
     "Organizations/Timekeep Tavern.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 185,
       "exportedPath": "organizations/timekeep-tavern.html",
       "dependencies": []
     },
     "Organizations/Verdant Reclamation.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 0,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 198,
       "exportedPath": "organizations/verdant-reclamation.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Breath.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 176,
       "exportedPath": "pantheon/domains/the-breath.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Caretaker.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 206,
       "exportedPath": "pantheon/domains/the-caretaker.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Ebb.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 173,
       "exportedPath": "pantheon/domains/the-ebb.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Glint.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 181,
       "exportedPath": "pantheon/domains/the-glint.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Hunger.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 183,
       "exportedPath": "pantheon/domains/the-hunger.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Light.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 199,
       "exportedPath": "pantheon/domains/the-light.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Lord.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 220,
       "exportedPath": "pantheon/domains/the-lord.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Lurking.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 170,
       "exportedPath": "pantheon/domains/the-lurking.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Migrant.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 180,
       "exportedPath": "pantheon/domains/the-migrant.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Phantom.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 173,
       "exportedPath": "pantheon/domains/the-phantom.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Urge.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 172,
       "exportedPath": "pantheon/domains/the-urge.html",
       "dependencies": []
     },
     "Pantheon/Domains/The Weaver.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 189,
       "exportedPath": "pantheon/domains/the-weaver.html",
       "dependencies": []
     },
     "Pantheon/Gods/Kumuqin.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 300,
       "exportedPath": "pantheon/gods/kumuqin.html",
       "dependencies": []
     },
     "Pantheon/Gods/Oellicht.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 143,
       "exportedPath": "pantheon/gods/oellicht.html",
       "dependencies": []
     },
     "Pantheon/Gods/Omen.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 153,
       "exportedPath": "pantheon/gods/omen.html",
       "dependencies": []
     },
     "Pantheon/Gods/The Big Spider.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 333,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 321,
       "exportedPath": "pantheon/gods/the-big-spider.html",
       "dependencies": []
     },
     "Pantheon/Gods/The Raven.md": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 153,
       "exportedPath": "pantheon/gods/the-raven.html",
       "dependencies": []
     },
-    "Races/Draconic Descendant.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 407,
-      "exportedPath": "races/draconic-descendant.html",
-      "dependencies": []
-    },
-    "Races/Goblinoid.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 282,
-      "exportedPath": "races/goblinoid.html",
-      "dependencies": []
-    },
-    "Races/Human.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 224,
-      "exportedPath": "races/human.html",
-      "dependencies": []
-    },
-    "Races/Mulburrow.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 2892,
-      "exportedPath": "races/mulburrow.html",
-      "dependencies": []
-    },
-    "Races/Spirit Golem.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 4210,
-      "exportedPath": "races/spirit-golem.html",
-      "dependencies": []
-    },
     "Template/Character Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 270,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 275,
       "exportedPath": "template/character-template.html",
       "dependencies": []
     },
     "Template/Deity Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 99,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 106,
       "exportedPath": "template/deity-template.html",
       "dependencies": []
     },
     "Template/Domain Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 91,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 98,
       "exportedPath": "template/domain-template.html",
       "dependencies": []
     },
     "Template/Economy and Industries Page.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 386,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 402,
       "exportedPath": "template/economy-and-industries-page.html",
       "dependencies": []
     },
     "Template/Era Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 110,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 104,
       "exportedPath": "template/era-template.html",
       "dependencies": []
     },
     "Template/Establishment Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 117,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 131,
       "exportedPath": "template/establishment-template.html",
       "dependencies": []
     },
     "Template/Event Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 92,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 113,
       "exportedPath": "template/event-template.html",
       "dependencies": []
     },
     "Template/Geography and Layout Page.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 301,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 314,
       "exportedPath": "template/geography-and-layout-page.html",
       "dependencies": []
     },
     "Template/Governance and Power Page.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 312,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 328,
       "exportedPath": "template/governance-and-power-page.html",
       "dependencies": []
     },
-    "Template/Location Simple Profile.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 118,
-      "exportedPath": "template/location-simple-profile.html",
-      "dependencies": []
-    },
     "Template/Location Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 610,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 615,
       "exportedPath": "template/location-template.html",
       "dependencies": []
     },
     "Template/Mysticism and Threats Page.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 100,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 116,
       "exportedPath": "template/mysticism-and-threats-page.html",
       "dependencies": []
     },
     "Template/NPC Directory Page.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 204,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 213,
       "exportedPath": "template/npc-directory-page.html",
       "dependencies": []
     },
     "Template/Organization Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 107,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 121,
       "exportedPath": "template/organization-template.html",
       "dependencies": []
     },
     "Template/Race Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 121,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 134,
       "exportedPath": "template/race-template.html",
       "dependencies": []
     },
     "Template/Relations and Neighbours Page.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 277,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 293,
       "exportedPath": "template/relations-and-neighbours-page.html",
       "dependencies": []
     },
     "Template/Session Template.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 66,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 72,
       "exportedPath": "template/session-template.html",
       "dependencies": []
     },
     "Template/Society and Culture Page.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 144,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 160,
       "exportedPath": "template/society-and-culture-page.html",
       "dependencies": []
     },
     "Template/Style Guidelines.md": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 227,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 216,
       "exportedPath": "template/style-guidelines.html",
       "dependencies": []
     },
     "lib/media/pharmopol-air-mask.png": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1877804,
       "exportedPath": "lib/media/pharmopol-air-mask.png",
       "dependencies": []
     },
     "lib/media/original-fellsaire-map.jpg": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 70887,
       "exportedPath": "lib/media/original-fellsaire-map.jpg",
       "dependencies": []
     },
     "lib/media/dealingmanorpuzzle.png": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 107708,
       "exportedPath": "lib/media/dealingmanorpuzzle.png",
       "dependencies": []
     },
     "lib/media/the_moon.png": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 33830,
       "exportedPath": "lib/media/the_moon.png",
       "dependencies": []
     },
     "lib/media/chwinga.png": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1073328,
       "exportedPath": "lib/media/chwinga.png",
       "dependencies": []
     },
     "lib/media/zodar.png": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 565623,
       "exportedPath": "lib/media/zodar.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 159157,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 178930,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 31430,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 36534,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 137406,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -2857,15 +2595,527 @@
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1740171434987,
+      "modifiedTime": 1741828010952,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1740171434987,
-      "sourceSize": 214,
+      "modifiedTime": 1741828010952,
+      "sourceSize": 248,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "Characters/Hellhaven/Archprelate of Brine Abena Khatari.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 967,
+      "exportedPath": "characters/hellhaven/archprelate-of-brine-abena-khatari.html",
+      "dependencies": []
+    },
+    "Characters/Hellhaven/Archprelate of Flame Tessa Durnford.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 640,
+      "exportedPath": "characters/hellhaven/archprelate-of-flame-tessa-durnford.html",
+      "dependencies": []
+    },
+    "Characters/Hellhaven/Rhaeven Marciel.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 4677,
+      "exportedPath": "characters/hellhaven/rhaeven-marciel.html",
+      "dependencies": []
+    },
+    "Characters/Misc/Renna Windrider.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 715,
+      "exportedPath": "characters/misc/renna-windrider.html",
+      "dependencies": []
+    },
+    "Characters/Archprelate of Ledgers Valeria Silvershade.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 379,
+      "exportedPath": "characters/archprelate-of-ledgers-valeria-silvershade.html",
+      "dependencies": []
+    },
+    "Entities & Phenomena/The Fabric.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 196,
+      "exportedPath": "entities-&-phenomena/the-fabric.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Agatha's Bedroom.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1217,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/agatha's-bedroom.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Annabelle's Room.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1151,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/annabelle's-room.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Attic.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 662,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/attic.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Bathroom.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 394,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/bathroom.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Courtyard.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 902,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/courtyard.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Dining Hall.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 913,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/dining-hall.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Foyer.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1177,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/foyer.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Front Entrance.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 595,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/front-entrance.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Hallway.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1175,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/hallway.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Kitchen.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 821,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/kitchen.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Laboratory.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 738,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/laboratory.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Library.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 655,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/library.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Puzzle Room.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 861,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/puzzle-room.html",
+      "dependencies": [
+        "lib/media/dealingmanorpuzzle.png"
+      ]
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Roof Garden.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1345,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/roof-garden.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Sewers.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 639,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/sewers.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/Study.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1620,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/study.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Manor Locations/The Grove.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 891,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/manor-locations/the-grove.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Connections.canvas": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 8344,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/connections.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Dealing Manor.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 2737,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/dealing-manor.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/Dealing Manor Layout.canvas": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 6990,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/dealing-manor-layout.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Dealing Manor/DealingManorPuzzle.png": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 107708,
+      "exportedPath": "locations/landmarks/establishments/dealing-manor/dealingmanorpuzzle.png",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Aegis Bastion.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 289,
+      "exportedPath": "locations/landmarks/establishments/aegis-bastion.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Aegis Sancta.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 350,
+      "exportedPath": "locations/landmarks/establishments/aegis-sancta.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Arbiter’s Call.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 371,
+      "exportedPath": "locations/landmarks/establishments/arbiter’s-call.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/Grand Cathedral.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 321,
+      "exportedPath": "locations/landmarks/establishments/grand-cathedral.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/The Bastion of Judgment.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 282,
+      "exportedPath": "locations/landmarks/establishments/the-bastion-of-judgment.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/The Codexorium.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 111,
+      "exportedPath": "locations/landmarks/establishments/the-codexorium.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/The Lord’s Tithe Commission.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 598,
+      "exportedPath": "locations/landmarks/establishments/the-lord’s-tithe-commission.html",
+      "dependencies": []
+    },
+    "Locations/Landmarks/Establishments/The Vault of Penance.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 2947,
+      "exportedPath": "locations/landmarks/establishments/the-vault-of-penance.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Draconic Empire/Subpages/Draconian Economy and Industry.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 3348,
+      "exportedPath": "locations/settlements/draconic-empire/subpages/draconian-economy-and-industry.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Draconic Empire/Subpages/Draconian Relations and Neighbours.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 6880,
+      "exportedPath": "locations/settlements/draconic-empire/subpages/draconian-relations-and-neighbours.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Draconic Empire/Subpages/Draconian Society and Culture.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 3879,
+      "exportedPath": "locations/settlements/draconic-empire/subpages/draconian-society-and-culture.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Draconic Empire/Draconia.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1016,
+      "exportedPath": "locations/settlements/draconic-empire/draconia.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Ebben Tidecourt/Subpages/Vetham NPC Directory.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 553,
+      "exportedPath": "locations/settlements/ebben-tidecourt/subpages/vetham-npc-directory.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Ebben Tidecourt/Vethmar.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 713,
+      "exportedPath": "locations/settlements/ebben-tidecourt/vethmar.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Haven of Hale/Hierarchy.canvas": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 6771,
+      "exportedPath": "locations/settlements/haven-of-hale/hierarchy.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Haven of Hale/Layout.canvas": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 7211,
+      "exportedPath": "locations/settlements/haven-of-hale/layout.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Miscellaneous Meta/Cuirefyn Relations and Neighbours.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 361,
+      "exportedPath": "locations/settlements/miscellaneous-meta/cuirefyn-relations-and-neighbours.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/Miscellaneous Meta/Grimvariant Governance and Power.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 660,
+      "exportedPath": "locations/settlements/miscellaneous-meta/grimvariant-governance-and-power.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/The Free Isles/Subpages/Istreccian NPC Directory.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1285,
+      "exportedPath": "locations/settlements/the-free-isles/subpages/istreccian-npc-directory.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/The Free Isles/Hangman's Isle.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 372,
+      "exportedPath": "locations/settlements/the-free-isles/hangman's-isle.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/The Free Isles/Istrecce.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 801,
+      "exportedPath": "locations/settlements/the-free-isles/istrecce.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/The Free Isles/The Fallen Isles.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 451,
+      "exportedPath": "locations/settlements/the-free-isles/the-fallen-isles.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/The Vermilion Republic/Subpages/Lavoss Governance and Power.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 342,
+      "exportedPath": "locations/settlements/the-vermilion-republic/subpages/lavoss-governance-and-power.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/The Vermilion Republic/Subpages/Lavoss NPC Directory.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 589,
+      "exportedPath": "locations/settlements/the-vermilion-republic/subpages/lavoss-npc-directory.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/The Vermilion Republic/Rellavoss.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 769,
+      "exportedPath": "locations/settlements/the-vermilion-republic/rellavoss.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Aexithis.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 704,
+      "exportedPath": "locations/settlements/to-be-fleshed/aexithis.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Barong.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 920,
+      "exportedPath": "locations/settlements/to-be-fleshed/barong.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Bo Renn.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 649,
+      "exportedPath": "locations/settlements/to-be-fleshed/bo-renn.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Cartoccian.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1362,
+      "exportedPath": "locations/settlements/to-be-fleshed/cartoccian.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Cuirefyn.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1009,
+      "exportedPath": "locations/settlements/to-be-fleshed/cuirefyn.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Dreka Goro.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 991,
+      "exportedPath": "locations/settlements/to-be-fleshed/dreka-goro.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Irrhilm.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1021,
+      "exportedPath": "locations/settlements/to-be-fleshed/irrhilm.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Khoz-Grimvar.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 652,
+      "exportedPath": "locations/settlements/to-be-fleshed/khoz-grimvar.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Mistle Town.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 459,
+      "exportedPath": "locations/settlements/to-be-fleshed/mistle-town.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Sauztein Geb.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 851,
+      "exportedPath": "locations/settlements/to-be-fleshed/sauztein-geb.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Schtadtvertt.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 695,
+      "exportedPath": "locations/settlements/to-be-fleshed/schtadtvertt.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Snowvale.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 308,
+      "exportedPath": "locations/settlements/to-be-fleshed/snowvale.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Vergrenzig.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 683,
+      "exportedPath": "locations/settlements/to-be-fleshed/vergrenzig.html",
+      "dependencies": []
+    },
+    "Locations/Settlements/TO BE FLESHED/Zillmorkur.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 726,
+      "exportedPath": "locations/settlements/to-be-fleshed/zillmorkur.html",
+      "dependencies": []
+    },
+    "Meta/Settlement Classification Chart.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 721,
+      "exportedPath": "meta/settlement-classification-chart.html",
+      "dependencies": []
+    },
+    "Meta/Umbrea Timeline.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 208,
+      "exportedPath": "meta/umbrea-timeline.html",
+      "dependencies": []
+    },
+    "Organizations/Chainmoor Consortium.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 970,
+      "exportedPath": "organizations/chainmoor-consortium.html",
+      "dependencies": []
+    },
+    "Organizations/Concordat of Chains.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 387,
+      "exportedPath": "organizations/concordat-of-chains.html",
+      "dependencies": []
+    },
+    "Organizations/Creosmagi.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 585,
+      "exportedPath": "organizations/creosmagi.html",
+      "dependencies": []
+    },
+    "Organizations/The Forge Collective.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 744,
+      "exportedPath": "organizations/the-forge-collective.html",
+      "dependencies": []
+    },
+    "Organizations/The Gilded Tribunal.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 455,
+      "exportedPath": "organizations/the-gilded-tribunal.html",
+      "dependencies": []
+    },
+    "Organizations/The Sable Warden Conclave.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 398,
+      "exportedPath": "organizations/the-sable-warden-conclave.html",
+      "dependencies": []
+    },
+    "Races/Homebrew/Draconic Descendant.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 407,
+      "exportedPath": "races/homebrew/draconic-descendant.html",
+      "dependencies": []
+    },
+    "Races/Homebrew/Goblinoid.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 282,
+      "exportedPath": "races/homebrew/goblinoid.html",
+      "dependencies": []
+    },
+    "Races/Homebrew/Human.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 224,
+      "exportedPath": "races/homebrew/human.html",
+      "dependencies": []
+    },
+    "Races/Homebrew/Mulburrow.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 2906,
+      "exportedPath": "races/homebrew/mulburrow.html",
+      "dependencies": []
+    },
+    "Races/Homebrew/Spirit Golem.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 4210,
+      "exportedPath": "races/homebrew/spirit-golem.html",
+      "dependencies": []
+    },
+    "Races/Disambiguation.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 1030,
+      "exportedPath": "races/disambiguation.html",
+      "dependencies": []
+    },
+    "Template/Arcane Phenomenon Template.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 103,
+      "exportedPath": "template/arcane-phenomenon-template.html",
+      "dependencies": []
+    },
+    "Template/Deprecated.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 178,
+      "exportedPath": "template/deprecated.html",
+      "dependencies": []
+    },
+    "Template/Landmark Template.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 111,
+      "exportedPath": "template/landmark-template.html",
+      "dependencies": []
+    },
+    "Template/Outpost Profile.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 524,
+      "exportedPath": "template/outpost-profile.html",
+      "dependencies": []
+    },
+    "Template/Timeline.md": {
+      "modifiedTime": 1741828010952,
+      "sourceSize": 208,
+      "exportedPath": "template/timeline.html",
       "dependencies": []
     }
   }
