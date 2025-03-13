@@ -1,9 +1,0 @@
-{
-  "accentColor": "#50c878",
-  "enabledCssSnippets": [
-    "obsidian-stylesheet",
-    "general"
-  ],
-  "translucency": false,
-  "baseFontSize": 14
-}

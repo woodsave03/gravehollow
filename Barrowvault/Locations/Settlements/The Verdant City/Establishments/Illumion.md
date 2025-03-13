@@ -1,4 +1,0 @@
----
-aliases:
-  - The Luminous Canopy
----
